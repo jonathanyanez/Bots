@@ -3,7 +3,7 @@
 
 import telebot
 from chatterbot import ChatBot
-bot = telebot.TeleBot("1074389302:AAFgi0vh7U1fRvzrwboVbYL_3_7WX0Rk0es")
+bot = telebot.TeleBot("ID:TOKEN")
 
 
 def bot_conversacional(message):
